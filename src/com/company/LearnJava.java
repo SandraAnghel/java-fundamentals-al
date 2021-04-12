@@ -30,5 +30,8 @@ public class LearnJava {
 
         TypeCasting.implicitTypeCasting();
         TypeCasting.explicitTypeCasting();
+        DecisionsMakingIfElseStatements.isMyCurrentWeightHealthy();
+        DecisionsMakingIfElseStatements.isPizzaHealthy();
+        DecisionsMakingIfElseStatements.getTheNumberFromTheUser();
     }
 }

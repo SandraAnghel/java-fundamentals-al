@@ -27,5 +27,8 @@ public class LearnJava {
         System.out.println("My long number is: " + v.myLongNumber);
         System.out.println("My average visceral fat is: " + v.myAverageVisceralFat);
         System.out.println("The distance between London and Bucharest is: " + v.distance + "Km");
+
+        TypeCasting.implicitTypeCasting();
+        TypeCasting.explicitTypeCasting();
     }
 }

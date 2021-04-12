@@ -9,6 +9,12 @@ public class Variables {
     String lastName = "Sandra";
     String address = "Flat 3, Aegean House, Harsfold Close, Rustington";
     String phoneNumber = "0798752111";
+    boolean isTheRightPhoneNumber = true;
+    boolean isAndrewTheWinner = false;
+    long myLongNumber = 547685499054l;
+    float myAverageVisceralFat = 1.5f;
+    double distance = 2.333;
+
 
 
 

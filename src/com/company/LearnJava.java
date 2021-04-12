@@ -21,5 +21,11 @@ public class LearnJava {
                 "Name: " + firstPerson.firstName + " " + firstPerson.lastName + "\n" +
                 "Address: " + firstPerson.address  + "\n" +
                 "Phone number: " + firstPerson.phoneNumber);
+        System.out.println("Is the provided phone number corect? " + firstPerson.isTheRightPhoneNumber);
+        System.out.println("Is Andrew Arnold one of the winners? " + v.isAndrewTheWinner);
+
+        System.out.println("My long number is: " + v.myLongNumber);
+        System.out.println("My average visceral fat is: " + v.myAverageVisceralFat);
+        System.out.println("The distance between London and Bucharest is: " + v.distance + "Km");
     }
 }

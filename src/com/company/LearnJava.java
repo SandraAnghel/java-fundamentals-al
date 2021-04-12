@@ -35,5 +35,6 @@ public class LearnJava {
         DecisionsMakingIfElseStatements.getTheNumberFromTheUser();
         SwitchCase.weekDays();
         SwitchCase.enterYourFinalGrade();
+        WhileAndDoWhileStatements.whileLoopExamples();
     }
 }

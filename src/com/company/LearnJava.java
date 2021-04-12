@@ -33,5 +33,7 @@ public class LearnJava {
         DecisionsMakingIfElseStatements.isMyCurrentWeightHealthy();
         DecisionsMakingIfElseStatements.isPizzaHealthy();
         DecisionsMakingIfElseStatements.getTheNumberFromTheUser();
+        SwitchCase.weekDays();
+        SwitchCase.enterYourFinalGrade();
     }
 }

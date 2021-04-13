@@ -36,5 +36,7 @@ public class LearnJava {
         SwitchCase.weekDays();
         SwitchCase.enterYourFinalGrade();
         WhileAndDoWhileStatements.whileLoopExamples();
+        WhileAndDoWhileStatements.doWhileExample();
+
     }
 }

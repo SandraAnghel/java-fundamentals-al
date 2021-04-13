@@ -28,16 +28,18 @@ public class LearnJava {
         System.out.println("My average visceral fat is: " + v.myAverageVisceralFat);
         System.out.println("The distance between London and Bucharest is: " + v.distance + "Km");
 
-       // TypeCasting.implicitTypeCasting();
-        //TypeCasting.explicitTypeCasting();
-       // DecisionsMakingIfElseStatements.isMyCurrentWeightHealthy();
-       // DecisionsMakingIfElseStatements.isPizzaHealthy();
-       // DecisionsMakingIfElseStatements.getTheNumberFromTheUser();
-       // SwitchCase.weekDays();
-       // SwitchCase.enterYourFinalGrade();
-       // WhileAndDoWhileStatements.whileLoopExamples();
-       // WhileAndDoWhileStatements.doWhileExample();
+        TypeCasting.implicitTypeCasting();
+        TypeCasting.explicitTypeCasting();
+        DecisionsMakingIfElseStatements.isMyCurrentWeightHealthy();
+        DecisionsMakingIfElseStatements.isPizzaHealthy();
+        DecisionsMakingIfElseStatements.getTheNumberFromTheUser();
+        SwitchCase.weekDays();
+        SwitchCase.enterYourFinalGrade();
+        WhileAndDoWhileStatements.whileLoopExamples();
+        WhileAndDoWhileStatements.doWhileExample();
         ForLoops.forLoopExamples();
+        BreakAndContinueStatements.breakStatementExample();
+        BreakAndContinueStatements.continueStatementExample();
 
 
     }

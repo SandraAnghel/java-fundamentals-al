@@ -28,6 +28,6 @@ public class ForLoops {
             System.out.println(s.charAt(i));
         }
 
-        
+
     }
 }
